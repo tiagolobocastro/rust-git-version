@@ -18,5 +18,5 @@ readme = "README.md"
 [dependencies]
 git-version-macro = { version = "=0.3.5", path = "git-version-macro" }
 
-[workspace]
-members = ["git-version-macro"]
+#[workspace]
+#members = ["git-version-macro"]
